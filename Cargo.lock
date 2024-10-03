@@ -5,3 +5,7 @@ version = 3
 [[package]]
 name = "webappanalyzer_data"
 version = "0.1.0"
+
+[[package]]
+name = "webappanalyzer_data_wappalyzer"
+version = "0.1.0"

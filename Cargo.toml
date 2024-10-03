@@ -1,5 +1,6 @@
 [workspace]
 members = [
     "webappanalyzer",
+    "wappalyzer",
 ]
 resolver = "2"
