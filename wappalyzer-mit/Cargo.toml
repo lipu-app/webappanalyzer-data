@@ -1,0 +1,5 @@
+[package]
+name = "webappanalyzer_data_wappalyzer_mit"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
