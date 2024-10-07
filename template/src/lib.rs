@@ -31,3 +31,5 @@ pub const TECHNOLOGIES_JSONS: [&[u8]; 27] = [
     include_bytes!("./technologies/y.json"),
     include_bytes!("./technologies/z.json"),
 ];
+
+pub const DATA_JSONS: (&[u8], &[u8], &[&[u8]]) = (GROUPS_JSON, CATEGORIES_JSON, &TECHNOLOGIES_JSONS);
